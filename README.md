@@ -7,3 +7,6 @@ no deben ser registrados con el mismo formulario...
 
 2da actualización
 En esta parte se ha agregado un poco de código a los ya existentes en archivo readme
+
+3ra actualización
+Hemos agregado mas elementos a esta lista...
